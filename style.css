@@ -2,6 +2,12 @@ body {
   background-color: black;
   color: green;
 }
+hr{
+  border-color: green;
+} 
 .linkTable {
+  border-style: solid; 
+  border-color: green;
+  border-size: 10px;  
 
 }
