@@ -17,3 +17,8 @@ hr{
 .linkSection{
  margin: 20px; 
 } 
+
+#index {
+ position: fixed;
+ right: 20px; 
+} 
